@@ -1,259 +1,259 @@
 {
-   "name":"InkySwap Mainnet Token List",
-   "timestamp":"2025-01-28T08:00:00Z",
-   "version":{
-      "major":1,
-      "minor":0,
-      "patch":0
-   },
-   "tokens":[
-      {
-         "chainId":57073,
-         "address":"0x4200000000000000000000000000000000000006",
-         "symbol":"WETH",
-         "name":"Wrapped ETH",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/c253d7c5d4203783e31bde1d33e143f6a9ce1defac24ab5e06948847696b80a1.png"
-      },
-      {
-         "chainId":57073,
-         "address":"0x2e1Ac42AeF8dC9fB4C661d017273e93Ba82d3d0E",
-         "symbol":"IAGENT",
-         "name":"InkyAgent",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/6f7c77e7c926b41e100a07c3b1d50218689a966e71150ae5a462821085214a01.png"
-      },
-      {
-         "chainId":57073,
-         "address":"0xE169c0cad1f9e5884C30db1976A39eBc40F8865F",
-         "symbol":"WAGMI",
-         "name":"We are gooing to make ink",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/aed290602db5739d3bc98597b82e1987ae6c89d196aaf747d38e8e613674d5bd.png"
-      },
-      {
-         "chainId":57073,
-         "address":"0x2a1bce657F919ac3f9aB50b2584CFC77563A02Ec",
-         "symbol":"AK47",
-         "name":"Andru Kollor",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/ad9de46fe764ccf967d594d0b7011cea30b6aeddbb9571e8f2e797edb252ba7e.png"
-      },
-      {
-         "chainId":57073,
-         "address":"0xEe73d2f34D66f0f07aF6ab37b42713520E33119C",
-         "symbol":"MYST",
-         "name":"MystInk",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/d13c0f6d9f7017bbf87fbb7aaa668f24b3d429ab11cde17bca080ae21c444520.png"
-      },
-      {
-         "chainId":57073,
-         "address":"0x75e7A5316e44755FF4ad724ee45337D1Eef6895e",
-         "symbol":"PRL",
-         "name":"Pearl",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/f810163a811c8ae21a0ce1f723cf50c5eab1b1a8bd14e1e46b39b23f7f41fdca.gif"
-      },
-      {
-         "chainId":57073,
-         "address":"0x4E7942a72DCFCc72Fa0872068B0DBA3921c1bB8A",
-         "symbol":"CHAD",
-         "name":"SuperChad",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/f17e3aea9c34060d282cc6212c38e892dd9c4ad14b96602e5401481eed8a1cb0.jpg"
-      },
-      {
-         "chainId":57073,
-         "address":"0x21C97338b1EA81A0b49930483C70d5B79ABcf041",
-         "symbol":"DBI",
-         "name":"DickButt on INK",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/cd91237d1b46ca06eaffd44e88b0215dcbf8bd7c582105155ff575c134f2542e.png"
-      },
-      {
-         "chainId":57073,
-         "address":"0x145922E65CeAf0e4Cf6E37e3a0e5BB57D9E1Ff09",
-         "symbol":"SQWARD",
-         "name":"Squidward",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/da8b439a045892d08aeab449997ed1623d2a576b2e490d540e5859fa8d73358d.png"
-      },
-      {
-         "chainId":57073,
-         "address":"0xeC2d096221bF7f599D1b1581DD73eb6b245807Ee",
-         "symbol":"LIT",
-         "name":"LIT",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/ab732d3c63b01068dde260392d8c89683cfce440e55b9655b898a9cdde8ac524.jpeg"
-      },
-      {
-         "chainId":57073,
-         "address":"0x1514c65c751d16Bf253a9e82715771c5557e568b",
-         "symbol":"INKYME",
-         "name":"InkChain MemeHub",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/674e7c998fbd4e5ce9bc53bd362b5eb68547979dd3a522f96d0c154a1d9bd857.png"
-      },
-      {
-         "chainId":57073,
-         "address":"0x1B184de5952d11fE3e821fc58E6ef73d545F733e",
-         "symbol":"CYPHER",
-         "name":"Cypherpunk",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/f51b651c25ee9762dadb09688d905616fd107521774a459b6c9a93b7f0aa3596.png"
-      },
-      {
-         "chainId":57073,
-         "address":"0x3379B82E2C225788e876b415B4F27CbB66EEC09B",
-         "symbol":"FINK",
-         "name":"The Finker",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/25c73dd4538ea225bd8130d3a15d6688dc1a60423bac274f651878ee4e5e5b1e.png"
-      },
-      {
-         "chainId":57073,
-         "address":"0xD642B49d10cc6e1BC1c6945725667c35e0875f22",
-         "symbol":"PURPLE",
-         "name":"Purple",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/5f2566640a8acd98b8376d8b66953596e2062a272b735038ab39f3e9fa98e837.png"
-      },
-      {
-         "chainId":57073,
-         "address":"0xC73E0b7F73fC5A1dc6C5E52E95C79273695e993E",
-         "symbol":"TRUMPINK",
-         "name":"Trump on Ink",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/c51b1b15591655341f724db66e3a1de43779452482c1d7b99aaaae3914fdda84.png"
-      },
-      {
-         "chainId":57073,
-         "address":"0xBE23B5574000f9676E34308b16aB100542B2Ff2e",
-         "symbol":"FARTCOIN",
-         "name":"Inked Fartcoin",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/c808ed4f203b83ca577f008294be326ceffe4d30b0c375ab7dd1dd8ea6a8d099.png"
-      },
-      {
-         "chainId":57073,
-         "address":"0xB54830013CB7A524C5e7161246266C656359ab6a",
-         "symbol":"nsfi",
-         "name":"notsofast_iota",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/c0520e49a5827fdf7a5dee111529d6491a0447f701f72a79fac6541f0c933cc9.jpg"
-      },
-      {
-         "chainId":57073,
-         "address":"0x20C69C12abf2B6F8D8ca33604DD25C700c7e70A5",
-         "symbol":"CAT",
-         "name":"Cat Call Agent",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/ff171d7343f4af4519cf402a692978b2957f9037cd5c9aa3b70dc355a9dbfa9e.webp"
-      },
-      {
-         "chainId":57073,
-         "address":"0x0c5E2D1C98cd265C751e02F8F3293bC5764F9111",
-         "symbol":"SHROOMY",
-         "name":"Shroomy",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/6802871be52e8764d2494beb6aa10b135991762370b037f9c228f573ddcb3eeb.jpg"
-      },
-      {
-         "chainId":75073,
-         "address":"0x03792f3C7841C901916cB76882Fb5a9E1902aB69",
-         "symbol":"POKE",
-         "name":"INKACHU",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/e401f7836787eff858b5b9b241e0b01bf92c4a8c3bc17855c61bdff0d1e56dde.jpg"
-      },
-      {
-         "chainId":75073,
-         "address":"0x1bCE6497be814337C58Bd570F9474570aB1936e8",
-         "symbol":"AFO",
-         "name":"Ape Force One",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/16aa7fe7c348037f74db5e65b6c2780b7699c405d66e847fdca1d900a64bdde0.jpg"
-      },
-      {
-         "chainId":75073,
-         "address":"0x1498128c676976BaCc08eBe0049d711339Adc5E4",
-         "symbol":"KRET",
-         "name":"Krethus",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/dcabba070d0765f3e083a8985df2239400886ac3a87cae6213e855ebce37844b.jpg"
-      },
-      {
-         "chainId":75073,
-         "address":"0x896bde845201eC44867C61DB4CAAa50db5A84aEe",
-         "symbol":"MARTINK",
-         "name":"martink",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/8373409868cb7fbbadd4132a81a92c3627eb13dce97d68360280ef4110f73444.png"
-      },
-      {
-         "chainId":75073,
-         "address":"0xD35C395aE081b2FC1E9644E9D6E4D950Af2b6FDc",
-         "symbol":"BABYKRAKEN",
-         "name":"BabyKraken",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/baa0d1a48941c44ad94256bdb0bdfe5bd1959c3f8a71abdbbe745bb7c6abb435.png"
-      },
-      {
-         "chainId":75073,
-         "address":"0xCeA0f8ed85E4EB981406E84DDCA7062946093089",
-         "symbol":"PSD",
-         "name":"Poseidon",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/1e75a7bcb91ca2d624d804af55c4f56f6b8756844a9c8ba57c367d9d919beb4b.jpeg"
-      },
-      {
-         "chainId":75073,
-         "address":"0xb816F5951a2e568d6EAE351443c789C4F9Fb55A7",
-         "symbol":"ARCH",
-         "name":"Archival Ink",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/ab098cfe30de9ceef10291ca1df3b69c1aab56a7b9e66f18086f2912c5525c4f.jpg"
-      },
-      {
-         "chainId":75073,
-         "address":"0xCa5f2cCBD9C40b32657dF57c716De44237f80F05",
-         "symbol":"KRAKEN",
-         "name":"Kraken",
-         "decimals":18,
-         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/60e7c778d3c7236e8f4f4d840a5afbdc85539ff9a0a4cff9bef221eb246a8098.jpg"
-      },
-      {
-         "chainId": 57073,
-         "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
-         "symbol": "USD₮0",
-         "name": "USD₮0",
-         "decimals": 6,
-         "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/4489c579765d8cff22a4469f97bbccd585b0f95a7e4f2c116eda66babc3783a1.jpg"
-      },
-      {
-         "chainId": 57073,
-         "address": "0x80ef7130C5EdC92488b7B98656C714b6342DCB9e",
-         "symbol": "PEA",
-         "name": "Eggplant",
-         "decimals": 18,
-         "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/71a3ae4b1558a8b1b43719584a027f8e43ea011b506588be3b85140b3ea8917e.png"
-      },
-      {
-         "chainId": 57073,
-         "address": "0x2AF94A6Ad45cFAb9F98e960c59BC9B61D116474e",
-         "symbol": "SHELL",
-         "name": "SHELL",
-         "decimals": 18,
-         "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/e4e82fe4dab577ff8905889e68bf9ae2e4ef3a9ad8ca6ca940ee91137fee304b.jpg"
-      },
-      {
-         "chainId": 57073,
-         "address": "0x78aec6f27f440eef34CD995B17f6A347f08EaAb4",
-         "symbol": "RCN",
-         "name": "RaccoonFi",
-         "decimals": 18,
-         "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/95cec6ef153ba8bc9e5f81ac97514d4d840983e3e65531e241c5bff56db0c07a.jpg"
-      }
-   ]
+  "name": "InkySwap Mainnet Token List",
+  "timestamp": "2025-01-28T08:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 57073,
+      "address": "0xAebe418317d363bc5c43b8690012aA621fA5C751",
+      "symbol": "DINK",
+      "name": "Do Ink",
+      "decimals": 18,
+      "logoURI": "https://imgur.com/a/J2gpMcF"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x2e1Ac42AeF8dC9fB4C661d017273e93Ba82d3d0E",
+      "symbol": "IAGENT",
+      "name": "InkyAgent",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/6f7c77e7c926b41e100a07c3b1d50218689a966e71150ae5a462821085214a01.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xE169c0cad1f9e5884C30db1976A39eBc40F8865F",
+      "symbol": "WAGMI",
+      "name": "We are gooing to make ink",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/aed290602db5739d3bc98597b82e1987ae6c89d196aaf747d38e8e613674d5bd.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x2a1bce657F919ac3f9aB50b2584CFC77563A02Ec",
+      "symbol": "AK47",
+      "name": "Andru Kollor",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/ad9de46fe764ccf967d594d0b7011cea30b6aeddbb9571e8f2e797edb252ba7e.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xEe73d2f34D66f0f07aF6ab37b42713520E33119C",
+      "symbol": "MYST",
+      "name": "MystInk",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/d13c0f6d9f7017bbf87fbb7aaa668f24b3d429ab11cde17bca080ae21c444520.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x75e7A5316e44755FF4ad724ee45337D1Eef6895e",
+      "symbol": "PRL",
+      "name": "Pearl",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/f810163a811c8ae21a0ce1f723cf50c5eab1b1a8bd14e1e46b39b23f7f41fdca.gif"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x4E7942a72DCFCc72Fa0872068B0DBA3921c1bB8A",
+      "symbol": "CHAD",
+      "name": "SuperChad",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/f17e3aea9c34060d282cc6212c38e892dd9c4ad14b96602e5401481eed8a1cb0.jpg"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x21C97338b1EA81A0b49930483C70d5B79ABcf041",
+      "symbol": "DBI",
+      "name": "DickButt on INK",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/cd91237d1b46ca06eaffd44e88b0215dcbf8bd7c582105155ff575c134f2542e.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x145922E65CeAf0e4Cf6E37e3a0e5BB57D9E1Ff09",
+      "symbol": "SQWARD",
+      "name": "Squidward",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/da8b439a045892d08aeab449997ed1623d2a576b2e490d540e5859fa8d73358d.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xeC2d096221bF7f599D1b1581DD73eb6b245807Ee",
+      "symbol": "LIT",
+      "name": "LIT",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/ab732d3c63b01068dde260392d8c89683cfce440e55b9655b898a9cdde8ac524.jpeg"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x1514c65c751d16Bf253a9e82715771c5557e568b",
+      "symbol": "INKYME",
+      "name": "InkChain MemeHub",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/674e7c998fbd4e5ce9bc53bd362b5eb68547979dd3a522f96d0c154a1d9bd857.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x1B184de5952d11fE3e821fc58E6ef73d545F733e",
+      "symbol": "CYPHER",
+      "name": "Cypherpunk",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/f51b651c25ee9762dadb09688d905616fd107521774a459b6c9a93b7f0aa3596.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x3379B82E2C225788e876b415B4F27CbB66EEC09B",
+      "symbol": "FINK",
+      "name": "The Finker",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/25c73dd4538ea225bd8130d3a15d6688dc1a60423bac274f651878ee4e5e5b1e.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xD642B49d10cc6e1BC1c6945725667c35e0875f22",
+      "symbol": "PURPLE",
+      "name": "Purple",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/5f2566640a8acd98b8376d8b66953596e2062a272b735038ab39f3e9fa98e837.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xC73E0b7F73fC5A1dc6C5E52E95C79273695e993E",
+      "symbol": "TRUMPINK",
+      "name": "Trump on Ink",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/c51b1b15591655341f724db66e3a1de43779452482c1d7b99aaaae3914fdda84.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xBE23B5574000f9676E34308b16aB100542B2Ff2e",
+      "symbol": "FARTCOIN",
+      "name": "Inked Fartcoin",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/c808ed4f203b83ca577f008294be326ceffe4d30b0c375ab7dd1dd8ea6a8d099.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0xB54830013CB7A524C5e7161246266C656359ab6a",
+      "symbol": "nsfi",
+      "name": "notsofast_iota",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/c0520e49a5827fdf7a5dee111529d6491a0447f701f72a79fac6541f0c933cc9.jpg"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x20C69C12abf2B6F8D8ca33604DD25C700c7e70A5",
+      "symbol": "CAT",
+      "name": "Cat Call Agent",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/ff171d7343f4af4519cf402a692978b2957f9037cd5c9aa3b70dc355a9dbfa9e.webp"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0c5E2D1C98cd265C751e02F8F3293bC5764F9111",
+      "symbol": "SHROOMY",
+      "name": "Shroomy",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/6802871be52e8764d2494beb6aa10b135991762370b037f9c228f573ddcb3eeb.jpg"
+    },
+    {
+      "chainId": 75073,
+      "address": "0x03792f3C7841C901916cB76882Fb5a9E1902aB69",
+      "symbol": "POKE",
+      "name": "INKACHU",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/e401f7836787eff858b5b9b241e0b01bf92c4a8c3bc17855c61bdff0d1e56dde.jpg"
+    },
+    {
+      "chainId": 75073,
+      "address": "0x1bCE6497be814337C58Bd570F9474570aB1936e8",
+      "symbol": "AFO",
+      "name": "Ape Force One",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/16aa7fe7c348037f74db5e65b6c2780b7699c405d66e847fdca1d900a64bdde0.jpg"
+    },
+    {
+      "chainId": 75073,
+      "address": "0x1498128c676976BaCc08eBe0049d711339Adc5E4",
+      "symbol": "KRET",
+      "name": "Krethus",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/dcabba070d0765f3e083a8985df2239400886ac3a87cae6213e855ebce37844b.jpg"
+    },
+    {
+      "chainId": 75073,
+      "address": "0x896bde845201eC44867C61DB4CAAa50db5A84aEe",
+      "symbol": "MARTINK",
+      "name": "martink",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/8373409868cb7fbbadd4132a81a92c3627eb13dce97d68360280ef4110f73444.png"
+    },
+    {
+      "chainId": 75073,
+      "address": "0xD35C395aE081b2FC1E9644E9D6E4D950Af2b6FDc",
+      "symbol": "BABYKRAKEN",
+      "name": "BabyKraken",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/baa0d1a48941c44ad94256bdb0bdfe5bd1959c3f8a71abdbbe745bb7c6abb435.png"
+    },
+    {
+      "chainId": 75073,
+      "address": "0xCeA0f8ed85E4EB981406E84DDCA7062946093089",
+      "symbol": "PSD",
+      "name": "Poseidon",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/1e75a7bcb91ca2d624d804af55c4f56f6b8756844a9c8ba57c367d9d919beb4b.jpeg"
+    },
+    {
+      "chainId": 75073,
+      "address": "0xb816F5951a2e568d6EAE351443c789C4F9Fb55A7",
+      "symbol": "ARCH",
+      "name": "Archival Ink",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/ab098cfe30de9ceef10291ca1df3b69c1aab56a7b9e66f18086f2912c5525c4f.jpg"
+    },
+    {
+      "chainId": 75073,
+      "address": "0xCa5f2cCBD9C40b32657dF57c716De44237f80F05",
+      "symbol": "KRAKEN",
+      "name": "Kraken",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/60e7c778d3c7236e8f4f4d840a5afbdc85539ff9a0a4cff9bef221eb246a8098.jpg"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+      "symbol": "USD₮0",
+      "name": "USD₮0",
+      "decimals": 6,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/4489c579765d8cff22a4469f97bbccd585b0f95a7e4f2c116eda66babc3783a1.jpg"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x80ef7130C5EdC92488b7B98656C714b6342DCB9e",
+      "symbol": "PEA",
+      "name": "Eggplant",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/71a3ae4b1558a8b1b43719584a027f8e43ea011b506588be3b85140b3ea8917e.png"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x2AF94A6Ad45cFAb9F98e960c59BC9B61D116474e",
+      "symbol": "SHELL",
+      "name": "SHELL",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/e4e82fe4dab577ff8905889e68bf9ae2e4ef3a9ad8ca6ca940ee91137fee304b.jpg"
+    },
+    {
+      "chainId": 57073,
+      "address": "0x78aec6f27f440eef34CD995B17f6A347f08EaAb4",
+      "symbol": "RCN",
+      "name": "RaccoonFi",
+      "decimals": 18,
+      "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/95cec6ef153ba8bc9e5f81ac97514d4d840983e3e65531e241c5bff56db0c07a.jpg"
+    }
+  ]
 }
