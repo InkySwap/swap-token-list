@@ -255,5 +255,13 @@
          "decimals": 18,
          "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/95cec6ef153ba8bc9e5f81ac97514d4d840983e3e65531e241c5bff56db0c07a.jpg"
       }
+      {
+         "chainId": 57073,
+         "address": "0xd6b04af9598162aad079c0e1c8bd1eb11cc5c6c8",
+         "symbol": "BEANS",
+         "name": "beans",
+         "decimals": 18,
+         "logoURI": "https://onlybeans.ink/assets/image/QmeKv1NjUWmVfHfq6Xq7K7UeJR2gJR4GCYFAozo1PcmtHN.png"
+      }
    ]
 }
