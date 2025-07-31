@@ -262,6 +262,14 @@
          "name": "beans",
          "decimals": 18,
          "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/a25dff3157c6a5e1400481edaaa434dd9358455bc95b4b081430ccaf25040423.png"
+      },
+      {
+         "chaidId": 57073,
+         "address": "0x2d74E7157E59F76675af6f255ee56F168193f959",
+         "symbol": "KFC",
+         "name": "Kraktard Finder Coin",
+         "decimals": 18,
+         "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/2e2a46dfe6eae17897ad4a202024ecdb5f2474b7a2eb0ca6994534d8c8d1e5c3.jpeg"
       }
    ]
 }
