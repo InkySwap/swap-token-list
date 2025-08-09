@@ -262,6 +262,14 @@
          "name": "beans",
          "decimals": 18,
          "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/a25dff3157c6a5e1400481edaaa434dd9358455bc95b4b081430ccaf25040423.png"
-      }
+      },
+      {
+  "chainId": 57073,
+  "address": "0xA390C67a78F0e63d2447147A36B60353377C5fcF",
+  "symbol": "MONEROCHAN",
+  "name": "Monerochan",
+  "decimals": 18,
+  "logoURI": "http://monerochan.biz/res/monerochan/monerochanToken.cleaned.png"
+}
    ]
 }
