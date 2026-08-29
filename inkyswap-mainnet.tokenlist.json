@@ -17,6 +17,14 @@
       },
       {
          "chainId":57073,
+         "address":"0x767F1e9feDfF2BFA4f90a7EFFddfCCc2970530Ba",
+         "symbol":"INKO",
+         "name":"INKO",
+         "decimals":18,
+         "logoURI":"https://storage.inkypump.com/storage/v1/object/public/images/e2766fa19b7ddce47dc22a573c2430c364e4c01e87a4ffdc600c5253ecb2317f.png"
+      },
+      {
+         "chainId":57073,
          "address":"0x2e1Ac42AeF8dC9fB4C661d017273e93Ba82d3d0E",
          "symbol":"IAGENT",
          "name":"InkyAgent",
