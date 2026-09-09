@@ -294,5 +294,13 @@
          "decimals": 18,
          "logoURI": "http://monerochan.biz/res/monerochan/monerochanToken.cleaned.png"
       }
+      {
+        "chainId": 57073,
+        "address": "0xe08f59718f33b93c68d06a75c2b774697154739c",
+        "symbol": "WOOD",
+        "name": "Marwood",
+        "decimals": 6,
+        "logoURI": "https://getwoodonink.xyz/logo-256.png"
+      }
    ]
 }
