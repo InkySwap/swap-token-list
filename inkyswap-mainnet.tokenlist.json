@@ -293,6 +293,14 @@
          "name": "Monerochan",
          "decimals": 18,
          "logoURI": "http://monerochan.biz/res/monerochan/monerochanToken.cleaned.png"
+      },
+      {
+         "chainId": 57073,
+         "address": "0x132F05BF59beC64A4fE10e74b84eb21e6f2B9598",
+         "symbol": "$PEDDLER",
+         "name": "PEDDLER",
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/peddlerink/swap-token-list/main/logo.png"
       }
    ]
 }
